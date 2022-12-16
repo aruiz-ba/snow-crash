@@ -1,6 +1,10 @@
-# Snow-Crashs
+# Snow-Crash
 
-Projet introductif à la sécurité en informatique, Snow Crash a pour but de faire découvrir la sécurité dans différents sous-domaines, avec une approche orientée développeur. Vous allez vous familiariser avec plusieurs langages (ASM/perl/php..), développer une certaine logique pour comprendre des programmes inconnus, et ainsi prendre conscience des problèmes liés à de simples erreurs de programmation . 
+his project is an introduction to computer security. Snow Crash will make you
+discover security in various sub-domains, with a developer-oriented approach.
+You will become familiar with several languages (ASM/perl/php…), develop a
+certain logic to understand unknown programs, and become aware of problems
+linked to simple programming errors.
 
 Skills:
 * Adaptation & creativity.
